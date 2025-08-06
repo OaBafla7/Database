@@ -5,7 +5,9 @@ A simple web application for managing user records with MySQL database integrati
 <img width="1001" height="447" alt="Screenshot 2025-08-06 030423" src="https://github.com/user-attachments/assets/932607e7-5723-4447-b9bb-1d3456e3cdfc" />
 
 <img width="738" height="449" alt="Screenshot 2025-08-06 030503" src="https://github.com/user-attachments/assets/0269e54e-f778-49c0-b103-e3b0b6526244" />
+<img width="581" height="267" alt="Screenshot 2025-08-06 132512" src="https://github.com/user-attachments/assets/8df33ded-d513-4d6c-a519-027ee381bb1f" />
 
+<img width="1510" height="357" alt="Screenshot 2025-08-06 132602" src="https://github.com/user-attachments/assets/36305013-41ec-48c6-a3f3-40aa47bdeeba" />
 Features
 One-line form for adding users (Name, Age)
 
